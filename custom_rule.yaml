@@ -30,3 +30,4 @@ payload:
   - '+.cloud.oracle.com'
   - '+.rust-lang.org'
   - '+.nvidia.com'
+  - '+.nvcr.io'
