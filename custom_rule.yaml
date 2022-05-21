@@ -28,3 +28,4 @@ payload:
   - '+.pythonhosted.org'
   - '+.rubygems.org'
   - '+.cloud.oracle.com'
+  - '+.rust-lang.org'
