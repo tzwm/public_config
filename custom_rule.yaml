@@ -29,3 +29,4 @@ payload:
   - '+.rubygems.org'
   - '+.cloud.oracle.com'
   - '+.rust-lang.org'
+  - '+.nvidia.com'
